@@ -1,21 +1,21 @@
 # 🚀 Web Development Projects
 
-A collection of mini web development projects built while learning HTML and CSS. This repository showcases my progress in frontend web development through hands-on practice and project-based learning.
+A collection of mini web development projects built while learning HTML and CSS. This repository documents my journey of learning frontend development through hands-on projects.
 
-## 📚 Projects
+## 📚 Projects Included
 
 | No. | Project                   | Technologies |
 | --- | ------------------------- | ------------ |
-| 01  | Movie Ranking Project     | HTML5        |
-| 02  | Birthday Invite Project   | HTML5        |
-| 03  | Color Vocab Project       | HTML5, CSS3  |
-| 04  | Motivational Meme Project | HTML5, CSS3  |
-| 05  | CSS Flag Project          | HTML5, CSS3  |
-| 06  | Web Design Agency Project | HTML5, CSS3  |
+| 1   | Movie Ranking Project     | HTML5        |
+| 2   | Birthday Invite Project   | HTML5        |
+| 3   | Color Vocab Project       | HTML5, CSS3  |
+| 4   | Motivational Meme Project | HTML5, CSS3  |
+| 5   | Flag Project              | HTML5, CSS3  |
+| 6   | Web Design Agency Project | HTML5, CSS3  |
 
 ---
 
-## 🎬 01 - Movie Ranking Project
+## 🎬 Project 1: Movie Ranking Project
 
 A simple webpage displaying my favorite movies using HTML headings, paragraphs, and semantic elements.
 
@@ -27,7 +27,7 @@ A simple webpage displaying my favorite movies using HTML headings, paragraphs, 
 
 ---
 
-## 🎂 02 - Birthday Invite Project
+## 🎂 Project 2: Birthday Invite Project
 
 A birthday invitation webpage featuring images, lists, and hyperlinks.
 
@@ -40,9 +40,9 @@ A birthday invitation webpage featuring images, lists, and hyperlinks.
 
 ---
 
-## 🎨 03 - Color Vocab Project
+## 🎨 Project 3: Color Vocab Project
 
-A webpage demonstrating CSS styling by displaying color names with matching text colors and images.
+A webpage demonstrating CSS styling by displaying color names with their corresponding colors.
 
 **Skills Practiced**
 
@@ -53,7 +53,7 @@ A webpage demonstrating CSS styling by displaying color names with matching text
 
 ---
 
-## 💪 04 - Motivational Meme Project
+## 💪 Project 4: Motivational Meme Project
 
 A motivational poster-style webpage built using HTML and CSS with custom fonts and styling.
 
@@ -66,9 +66,9 @@ A motivational poster-style webpage built using HTML and CSS with custom fonts a
 
 ---
 
-## 🚩 05 - CSS Flag Project
+## 🚩 Project 5: Flag Project
 
-A project focused on recreating a national flag using only HTML and CSS.
+A project focused on recreating a national flag using HTML and CSS.
 
 **Skills Practiced**
 
@@ -79,9 +79,9 @@ A project focused on recreating a national flag using only HTML and CSS.
 
 ---
 
-## 🏢 06 - Web Design Agency Project
+## 🏢 Project 6: Web Design Agency Project
 
-A responsive landing page for a fictional web design agency showcasing services and branding.
+A responsive landing page for a fictional web design agency.
 
 **Skills Practiced**
 
@@ -101,32 +101,25 @@ A responsive landing page for a fictional web design agency showcasing services 
 
 ---
 
-## 🎯 Learning Outcomes
-
-Through these projects, I have learned:
-
-* HTML fundamentals
-* CSS styling and layouts
-* Typography and colors
-* Responsive design basics
-* Frontend development fundamentals
-* Git and GitHub workflow
-
----
-
 ## 📁 Repository Structure
 
 ```text
 Web-Development-Projects/
 │
-├── 01-Movie-Ranking-Project/
-├── 02-Birthday-Invite-Project/
-├── 03-Color-Vocab-Project/
-├── 04-Motivational-Meme-Project/
-├── 05-CSS-Flag-Project/
-├── 06-Web-Design-Agency-Project/
+├── project-1-Movie-Ranking-Project/
+├── project-2-Birthday-Invite-Project/
+├── project-3-color-vocab-project/
+├── project-4-Motivation-Meme-Project/
+├── project-5-flag project/
+├── project-06-Web-Design-Agency/
 └── README.md
 ```
+
+---
+
+## 🎯 Learning Goal
+
+This repository serves as a collection of projects completed while learning web development fundamentals and building a strong foundation in frontend development.
 
 ---
 
@@ -136,6 +129,4 @@ Web-Development-Projects/
 
 GitHub: https://github.com/PrekshithReddy
 
----
-
-⭐ This repository is continuously updated as I progress through my web development journey.
+⭐ Continuously updated as I progress through my web development journey.
