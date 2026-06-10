@@ -1,67 +1,116 @@
 # 🚀 Web Development Projects
 
-A collection of mini web development projects built while learning HTML and CSS. This repository documents my journey from beginner-level web pages to more advanced frontend projects.
+A collection of mini web development projects built while learning HTML and CSS. This repository showcases my progress in frontend web development through hands-on practice and project-based learning.
 
 ## 📚 Projects
 
-| No. | Project | Technologies |
-|------|----------|-------------|
-| 1 | Movie Ranking Website | HTML5 |
-| 2 | Birthday Invitation Website | HTML5 |
-| 3 | Color Vocabulary Website | HTML5, CSS3 |
-| 4 | Motivational Meme Website | HTML5, CSS3 |
+| No. | Project                   | Technologies |
+| --- | ------------------------- | ------------ |
+| 01  | Movie Ranking Project     | HTML5        |
+| 02  | Birthday Invite Project   | HTML5        |
+| 03  | Color Vocab Project       | HTML5, CSS3  |
+| 04  | Motivational Meme Project | HTML5, CSS3  |
+| 05  | CSS Flag Project          | HTML5, CSS3  |
+| 06  | Web Design Agency Project | HTML5, CSS3  |
 
 ---
 
-## 🎬 Project 1: Movie Ranking Website
+## 🎬 01 - Movie Ranking Project
 
-A simple webpage that showcases my favorite movies using HTML headings, paragraphs, and semantic structure.
+A simple webpage displaying my favorite movies using HTML headings, paragraphs, and semantic elements.
 
-### Technologies Used
-- HTML5
+**Skills Practiced**
 
----
-
-## 🎂 Project 2: Birthday Invitation Website
-
-A birthday invitation webpage featuring images, lists, headings, and links.
-
-### Technologies Used
-- HTML5
+* HTML document structure
+* Headings and paragraphs
+* Semantic HTML
 
 ---
 
-## 🎨 Project 3: Color Vocabulary Website
+## 🎂 02 - Birthday Invite Project
 
-A webpage demonstrating CSS styling by displaying color names with matching colors and images.
+A birthday invitation webpage featuring images, lists, and hyperlinks.
 
-### Technologies Used
-- HTML5
-- CSS3
+**Skills Practiced**
+
+* Lists and nesting
+* Images
+* Hyperlinks
+* HTML page structure
 
 ---
 
-## 💪 Project 4: Motivational Meme Website
+## 🎨 03 - Color Vocab Project
+
+A webpage demonstrating CSS styling by displaying color names with matching text colors and images.
+
+**Skills Practiced**
+
+* CSS selectors
+* Colors and styling
+* Images
+* Basic CSS properties
+
+---
+
+## 💪 04 - Motivational Meme Project
 
 A motivational poster-style webpage built using HTML and CSS with custom fonts and styling.
 
-### Technologies Used
-- HTML5
-- CSS3
-  
+**Skills Practiced**
+
+* Typography
+* CSS styling
+* Google Fonts
+* Layout design
 
 ---
 
-## 🛠️ Skills Practiced
+## 🚩 05 - CSS Flag Project
 
-- HTML document structure
-- Semantic HTML elements
-- Headings, paragraphs, lists, and links
-- Working with images
-- CSS selectors
-- CSS colors and typography
-- Basic webpage styling
-- Project organization using Git & GitHub
+A project focused on recreating a national flag using only HTML and CSS.
+
+**Skills Practiced**
+
+* CSS positioning
+* Box model
+* Colors and shapes
+* Layout techniques
+
+---
+
+## 🏢 06 - Web Design Agency Project
+
+A responsive landing page for a fictional web design agency showcasing services and branding.
+
+**Skills Practiced**
+
+* Responsive design
+* CSS layouts
+* Website structure
+* Modern webpage design
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* Git
+* GitHub
+
+---
+
+## 🎯 Learning Outcomes
+
+Through these projects, I have learned:
+
+* HTML fundamentals
+* CSS styling and layouts
+* Typography and colors
+* Responsive design basics
+* Frontend development fundamentals
+* Git and GitHub workflow
 
 ---
 
@@ -74,14 +123,10 @@ Web-Development-Projects/
 ├── 02-Birthday-Invite-Project/
 ├── 03-Color-Vocab-Project/
 ├── 04-Motivational-Meme-Project/
+├── 05-CSS-Flag-Project/
+├── 06-Web-Design-Agency-Project/
 └── README.md
 ```
-
----
-
-## 🎯 Learning Goal
-
-This repository serves as a collection of projects completed while learning web development fundamentals and building a strong foundation in frontend development.
 
 ---
 
@@ -91,4 +136,6 @@ This repository serves as a collection of projects completed while learning web 
 
 GitHub: https://github.com/PrekshithReddy
 
-⭐ If you find these projects helpful, feel free to explore and learn from them!
+---
+
+⭐ This repository is continuously updated as I progress through my web development journey.
