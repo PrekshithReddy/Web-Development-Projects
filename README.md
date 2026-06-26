@@ -1,26 +1,27 @@
 # 🚀 Web Development Projects
 
-A collection of mini web development projects built while learning **HTML5** and **CSS3**. This repository documents my journey of learning frontend development through hands-on projects, with each project focusing on different web development concepts.
+A collection of mini web development projects built while learning **HTML5** and **CSS3**. This repository documents my frontend development journey through hands-on projects, with each project focusing on different concepts of modern web development.
 
 ---
 
 ## 📚 Projects Included
 
-| No. | Project                   | Technologies |
-| :-: | ------------------------- | ------------ |
-|  1  | Movie Ranking Project     | HTML5        |
-|  2  | Birthday Invite Project   | HTML5        |
-|  3  | Color Vocab Project       | HTML5, CSS3  |
-|  4  | Motivational Meme Project | HTML5, CSS3  |
-|  5  | Flag Project              | HTML5, CSS3  |
-|  6  | Web Design Agency Project | HTML5, CSS3  |
-|  7  | Pricing Table Project     | HTML5, CSS3  |
+| No. | Project                   | Technologies           |
+| :-: | ------------------------- | ---------------------- |
+|  1  | Movie Ranking Project     | HTML5                  |
+|  2  | Birthday Invite Project   | HTML5                  |
+|  3  | Color Vocab Project       | HTML5, CSS3            |
+|  4  | Motivational Meme Project | HTML5, CSS3            |
+|  5  | Flag Project              | HTML5, CSS3            |
+|  6  | Web Design Agency Project | HTML5, CSS3            |
+|  7  | Pricing Table Project     | HTML5, CSS3            |
+|  8  | Mondrian Project          | HTML5, CSS3 (CSS Grid) |
 
 ---
 
 ## 🎬 Project 1: Movie Ranking Project
 
-A simple webpage showcasing my favorite movies using semantic HTML elements.
+A simple webpage showcasing my favorite movies using semantic HTML.
 
 **Skills Practiced**
 
@@ -90,14 +91,14 @@ A responsive landing page for a fictional web design agency.
 
 * Responsive design
 * CSS Flexbox
-* Media queries
+* Media Queries
 * Modern webpage layouts
 
 ---
 
 ## 💳 Project 7: Pricing Table Project
 
-A responsive pricing table showcasing different subscription plans using modern CSS layout techniques.
+A responsive pricing table showcasing different subscription plans using Flexbox.
 
 **Skills Practiced**
 
@@ -106,6 +107,20 @@ A responsive pricing table showcasing different subscription plans using modern 
 * Media Queries
 * Card Layout Design
 * Component Styling
+
+---
+
+## 🎨 Project 8: Mondrian Project
+
+A recreation of Piet Mondrian's iconic abstract artwork using **CSS Grid**, demonstrating advanced layout techniques without using images.
+
+**Skills Practiced**
+
+* CSS Grid
+* Grid rows and columns
+* Grid item placement
+* Layout composition
+* Modern CSS techniques
 
 ---
 
@@ -130,6 +145,7 @@ Web-Development-Projects/
 ├── project-5-flag project/
 ├── project-6-Web-Design-Agency/
 ├── project-7-Pricing-Table/
+├── project-8-Mondrian/
 └── README.md
 ```
 
@@ -141,12 +157,13 @@ Through these projects, I am building a strong foundation in frontend web develo
 
 * Semantic HTML
 * CSS Styling
+* CSS Flexbox
+* CSS Grid
 * Responsive Web Design
-* Flexbox Layouts
 * Modern UI Design Principles
 * Git & GitHub Workflow
 
-This repository will continue to grow as I complete more projects and explore JavaScript and other frontend technologies.
+This repository will continue to grow as I build more projects and expand my knowledge of JavaScript and modern frontend development.
 
 ---
 
