@@ -1,23 +1,26 @@
 # 🚀 Web Development Projects
 
-A collection of mini web development projects built while learning HTML and CSS. This repository documents my journey of learning frontend development through hands-on projects.
+A collection of mini web development projects built while learning **HTML5** and **CSS3**. This repository documents my journey of learning frontend development through hands-on projects, with each project focusing on different web development concepts.
+
+---
 
 ## 📚 Projects Included
 
 | No. | Project                   | Technologies |
-| --- | ------------------------- | ------------ |
-| 1   | Movie Ranking Project     | HTML5        |
-| 2   | Birthday Invite Project   | HTML5        |
-| 3   | Color Vocab Project       | HTML5, CSS3  |
-| 4   | Motivational Meme Project | HTML5, CSS3  |
-| 5   | Flag Project              | HTML5, CSS3  |
-| 6   | Web Design Agency Project | HTML5, CSS3  |
+| :-: | ------------------------- | ------------ |
+|  1  | Movie Ranking Project     | HTML5        |
+|  2  | Birthday Invite Project   | HTML5        |
+|  3  | Color Vocab Project       | HTML5, CSS3  |
+|  4  | Motivational Meme Project | HTML5, CSS3  |
+|  5  | Flag Project              | HTML5, CSS3  |
+|  6  | Web Design Agency Project | HTML5, CSS3  |
+|  7  | Pricing Table Project     | HTML5, CSS3  |
 
 ---
 
 ## 🎬 Project 1: Movie Ranking Project
 
-A simple webpage displaying my favorite movies using HTML headings, paragraphs, and semantic elements.
+A simple webpage showcasing my favorite movies using semantic HTML elements.
 
 **Skills Practiced**
 
@@ -48,8 +51,8 @@ A webpage demonstrating CSS styling by displaying color names with their corresp
 
 * CSS selectors
 * Colors and styling
-* Images
 * Basic CSS properties
+* Image handling
 
 ---
 
@@ -60,15 +63,15 @@ A motivational poster-style webpage built using HTML and CSS with custom fonts a
 **Skills Practiced**
 
 * Typography
-* CSS styling
 * Google Fonts
+* CSS styling
 * Layout design
 
 ---
 
 ## 🚩 Project 5: Flag Project
 
-A project focused on recreating a national flag using HTML and CSS.
+A project focused on recreating a national flag using only HTML and CSS.
 
 **Skills Practiced**
 
@@ -86,9 +89,23 @@ A responsive landing page for a fictional web design agency.
 **Skills Practiced**
 
 * Responsive design
-* CSS layouts
-* Website structure
-* Modern webpage design
+* CSS Flexbox
+* Media queries
+* Modern webpage layouts
+
+---
+
+## 💳 Project 7: Pricing Table Project
+
+A responsive pricing table showcasing different subscription plans using modern CSS layout techniques.
+
+**Skills Practiced**
+
+* CSS Flexbox
+* Responsive Web Design
+* Media Queries
+* Card Layout Design
+* Component Styling
 
 ---
 
@@ -105,21 +122,31 @@ A responsive landing page for a fictional web design agency.
 
 ```text
 Web-Development-Projects/
-│
+
 ├── project-1-Movie-Ranking-Project/
 ├── project-2-Birthday-Invite-Project/
 ├── project-3-color-vocab-project/
 ├── project-4-Motivation-Meme-Project/
 ├── project-5-flag project/
-├── project-06-Web-Design-Agency/
+├── project-6-Web-Design-Agency/
+├── project-7-Pricing-Table/
 └── README.md
 ```
 
 ---
 
-## 🎯 Learning Goal
+## 🎯 Learning Goals
 
-This repository serves as a collection of projects completed while learning web development fundamentals and building a strong foundation in frontend development.
+Through these projects, I am building a strong foundation in frontend web development by practicing:
+
+* Semantic HTML
+* CSS Styling
+* Responsive Web Design
+* Flexbox Layouts
+* Modern UI Design Principles
+* Git & GitHub Workflow
+
+This repository will continue to grow as I complete more projects and explore JavaScript and other frontend technologies.
 
 ---
 
@@ -129,4 +156,4 @@ This repository serves as a collection of projects completed while learning web 
 
 GitHub: https://github.com/PrekshithReddy
 
-⭐ Continuously updated as I progress through my web development journey.
+⭐ **This repository is continuously updated as I progress through my web development journey.**
