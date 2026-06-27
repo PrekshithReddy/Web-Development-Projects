@@ -6,17 +6,17 @@ A collection of mini web development projects built while learning **HTML5** and
 
 ## 📚 Projects Included
 
-| No. | Project                   | Technologies           |
-| :-: | ------------------------- | ---------------------- |
-|  1  | Movie Ranking Project     | HTML5                  |
-|  2  | Birthday Invite Project   | HTML5                  |
-|  3  | Color Vocab Project       | HTML5, CSS3            |
-|  4  | Motivational Meme Project | HTML5, CSS3            |
-|  5  | Flag Project              | HTML5, CSS3            |
-|  6  | Web Design Agency Project | HTML5, CSS3            |
-|  7  | Pricing Table Project     | HTML5, CSS3            |
-|  8  | Mondrian Project          | HTML5, CSS3 (CSS Grid) |
-
+| No. | Project                    | Technologies           |
+| :-: | -------------------------  | ---------------------- |
+|  1  | Movie Ranking Project      | HTML5                  |
+|  2  | Birthday Invite Project    | HTML5                  |
+|  3  | Color Vocab Project        | HTML5, CSS3            |
+|  4  | Motivational Meme Project  | HTML5, CSS3            |
+|  5  | Flag Project               | HTML5, CSS3            |
+|  6  | Web Design Agency Project  | HTML5, CSS3            |
+|  7  | Pricing Table Project      | HTML5, CSS3            |
+|  8  | Mondrian Project           | HTML5, CSS3 (CSS Grid) |
+|  9  | Express JS Secrets Project | Node.js, Express.js    |
 ---
 
 ## 🎬 Project 1: Movie Ranking Project
@@ -124,10 +124,24 @@ A recreation of Piet Mondrian's iconic abstract artwork using **CSS Grid**, demo
 
 ---
 
+### 9. Express JS Secrets Project
+A backend project built using Node.js and Express.js, focusing on server-side development.
+
+**Skills Practiced**
+- Express server setup
+- Routing (GET/POST)
+- Middleware usage
+- Backend architecture basics
+
+---
+
+
 ## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
+* Node.js
+* Express.js
 * Git
 * GitHub
 
@@ -146,6 +160,7 @@ Web-Development-Projects/
 ├── project-6-Web-Design-Agency/
 ├── project-7-Pricing-Table/
 ├── project-8-Mondrian/
+├── project-9-ExpressJs-Secrets/
 └── README.md
 ```
 
@@ -162,8 +177,7 @@ Through these projects, I am building a strong foundation in frontend web develo
 * Responsive Web Design
 * Modern UI Design Principles
 * Git & GitHub Workflow
-
-This repository will continue to grow as I build more projects and expand my knowledge of JavaScript and modern frontend development.
+* Node.js & Express.js Basics
 
 ---
 
