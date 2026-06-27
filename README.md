@@ -124,7 +124,7 @@ A recreation of Piet Mondrian's iconic abstract artwork using **CSS Grid**, demo
 
 ---
 
-### 9. Express JS Secrets Project
+### 🐙 Project 9. Express JS Secrets Project
 A backend project built using Node.js and Express.js, focusing on server-side development.
 
 **Skills Practiced**
