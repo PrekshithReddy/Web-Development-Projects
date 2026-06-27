@@ -4,7 +4,6 @@ A simple password-protected web application built with **Node.js** and **Express
 
 This project demonstrates the fundamentals of Express by handling form submissions and conditionally serving a protected HTML page based on user input.
 
-> **Course Project:** Built as part of *Dr. Angela Yu's Complete Web Development Bootcamp*.
 
 ---
 
